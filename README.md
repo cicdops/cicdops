@@ -3,7 +3,7 @@ DevOps是一种思想，是一种文化，主要强调软件开发测试运维�
 
 DevOps与cicd紧密相关，是理论与实践的结合，DevOps要实现人员一体化，必须要借助cicd工具来自动化整个流程。
 
-![devops](Devops.png)
+![devops](Devops.png?raw=true)
 
 在不同的公司会有不同的人员组织架构，创业公司开发人员可能就涵盖了所有的DevOps任务，在专业的软件公司一般会有专门的团队来负责公司所有产品的DevOps。不管任务谁来做，不管所在公司职位是什么，其实目标都是一致的，所做的事情也是一致的，完成任务所需要的工具也是一致的。
 不同公司职位的名称可能但是不限于：
@@ -12,7 +12,7 @@ DevOps与cicd紧密相关，是理论与实践的结合，DevOps要实现人员�
 - SRE(Site reliablity Engineer)
 - DevOps
 
-![devops2](devops2.jpg)
+![devops2](devops2.jpg?raw=true)
 
 devops的发展过程：
 1. 传统瀑布模型（Waterfall Development）
@@ -20,7 +20,7 @@ devops的发展过程：
 3. 持续发布（Continuous Delivery）
 4. 持续部署（Continuous Deployment）
 
-![devops12](devops12.PNG)
+![devops12](devops12.PNG?raw=true)
 
 ### 为什么需要 cicd，devops
 - 提高发布的频率
@@ -40,12 +40,13 @@ devops的发展过程：
 - 部署分发
 - 监控工具
 
-![devops3](devops3.png)
-![devops6](devops6.png)
-![devops9](devops9.jpeg)
+![devops3](devops3.png?raw=true)
+![devops6](devops6.png?raw=true)
+![devops9](devops9.jpeg?raw=true)
 
 [更多工具, 参考github awesome-ciandcd](https://github.com/cicdops/awesome-ciandcd/blob/master/README.md)
 
 ### 欢迎一起讨论
 公众号：cicdops
-![gzh](gzh12.jpg)
+
+![gzh](gzh12.jpg?raw=true)
