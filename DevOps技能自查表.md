@@ -1,3 +1,9 @@
+---
+description: ''
+sidebar: 'devops'
+next: '/devops/DevOps常用工具/'
+---
+
 前篇提到了DevOps的工作岗位要求，但是没有来的及深入细节，本文根据个人10年多的经验，尽量详细地列举DevOps所需要用到的一些技术和相关参考网站。
 
 ## Linux基础
