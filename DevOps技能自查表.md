@@ -1,7 +1,7 @@
 ---
 description: ''
 sidebar: 'devops'
-prev:'DevOps的工作岗位的要求/
+prev:'/devops/DevOps的工作岗位的要求/
 next: '/devops/DevOps常用工具/'
 ---
 
