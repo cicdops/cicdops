@@ -1,3 +1,10 @@
+---
+description: ''
+sidebar: 'devops'
+prev: '/devops/DevOps技能自查表/'
+next: '/devops/DevOps常用工具/'
+---
+
 Linux基础和命令：
 shell语法查询：
 > http://www.linux6.com  
