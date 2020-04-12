@@ -1,6 +1,7 @@
 ---
 description: ''
 sidebar: 'devops'
+prev: '/docs/cicd和DevOps/'
 next: '/devops/DevOps技能自查表/'
 ---
 
