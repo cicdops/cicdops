@@ -2,7 +2,7 @@
   <div>
     <hr>
     <div align=center>公众号：cicdops</div>
-    <img src=/gzhy12.jpeg>
+    <img align=center src=/gzh15.jpg>
   </div>
 </template>
 
