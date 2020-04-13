@@ -31,7 +31,8 @@
         </div>
 
       </main>
-
+      <LayoutFooter / >
+      
     </div>
 
     <div v-if="hasSidebar" class="fixed bottom-0 right-0 z-50 p-8 lg:hidden">
@@ -41,7 +42,7 @@
       </button>
     </div>
 
-   <LayoutFooter / >
+
   </div>
 </template>
 
