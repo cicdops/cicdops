@@ -12,13 +12,13 @@ module.exports = {
   },
   siteUrl: (process.env.SITE_URL ? process.env.SITE_URL : 'http://cdcdops.com'),
   settings: {
-    web: process.env.URL_WEB || false,
+    web: process.env.URL_WEB || 'http://cicdops.com/',
     twitter: process.env.URL_TWITTER || false,
-    github: process.env.URL_GITHUB || false,
+    github: process.env.URL_GITHUB || 'https://github.com/cicdops/cicdops',
     nav: {
       links: [
-        { path: '/devops/cicd和DevOps/', title: 'DevOps' },
-        { path: '/devops/cicd和DevOps/', title: 'DevOps' }
+        { path: '/devops/', title: 'DevOps' },
+        { path: '/about', title: 'About' },
       ]
     },
     sidebar: [
@@ -28,15 +28,15 @@ module.exports = {
           {
             title: '概念',
             items: [
-              '/devops/1.cicd和DevOps/',
-              '/devops/2.DevOps的工作岗位的要求/',
-              '/devops/3.DevOps技能自查表/',
+              '/devops/DevOps_summary/',
+              '/devops/DevOps_jobs/',
+              '/devops/DevOps_skill/',
             ]
           },
           {
             title: '工具',
             items: [
-              '/devops/DevOps常用工具/',
+              '/devops/DevOps_tools/',
             ]
           }
         ]
