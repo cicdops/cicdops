@@ -5,39 +5,38 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: 'Docc',
+  siteName: 'cicdops',
   icon: {
     favicon: './src/assets/favicon.png',
     touchicon: './src/assets/favicon.png'
   },
-  siteUrl: (process.env.SITE_URL ? process.env.SITE_URL : 'https://example.com'),
+  siteUrl: (process.env.SITE_URL ? process.env.SITE_URL : 'http://cdcdops.com'),
   settings: {
     web: process.env.URL_WEB || false,
     twitter: process.env.URL_TWITTER || false,
     github: process.env.URL_GITHUB || false,
     nav: {
       links: [
-        { path: '/docs/', title: 'Docs' }
+        { path: '/devops/cicd和DevOps/', title: 'DevOps' },
+        { path: '/devops/cicd和DevOps/', title: 'DevOps' }
       ]
     },
     sidebar: [
       {
-        name: 'docs',
+        name: 'devops',
         sections: [
           {
-            title: 'Getting Started',
+            title: '概念',
             items: [
-              '/docs/',
-              '/docs/installation/',
-              '/docs/writing-content/',
-              '/docs/deploying/',
+              '/devops/1.cicd和DevOps/',
+              '/devops/2.DevOps的工作岗位的要求/',
+              '/devops/3.DevOps技能自查表/',
             ]
           },
           {
-            title: 'Configuration',
+            title: '工具',
             items: [
-              '/docs/settings/',
-              '/docs/sidebar/',
+              '/devops/DevOps常用工具/',
             ]
           }
         ]
