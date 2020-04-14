@@ -1,1 +1,1 @@
-all.md
+../../all.md
