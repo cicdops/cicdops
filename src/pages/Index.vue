@@ -21,7 +21,7 @@
             </div>
           </div>
           <div class="mt-12 xl:mt-0 px-6 flex-shrink-0 hidden md:block">
-            <image src="Devops.png" class="border-0 mx-auto" style="width: 40rem; height: 30rem;"></image>
+            <image src="Devops.png" class="border-0 mx-auto" style="width: 40rem; height: 20rem;"></image>
           </div>
         </div>
       </div>
