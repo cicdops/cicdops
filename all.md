@@ -6,4 +6,4 @@
 [DevOps常用工具](http://www.cicdops.com/devops/dev-ops-tools/)   
 
 ### Linux
-[Linux centos8 VPS基本配置之SSH](http://www.cicdops.com/linux/linux_centos8_ssh/)
+[Linux centos8 VPS基本配置之SSH](http://www.cicdops.com/linux/linux-centos8-ssh/)
