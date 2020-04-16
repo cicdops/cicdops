@@ -7,3 +7,4 @@
 
 ### Linux
 [Linux centos8 VPS基本配置之SSH](http://www.cicdops.com/linux/linux-centos8-ssh/)
+[Linux基本开发环境配置git,c++,nodejs,nginx](http://www.cicdops.com/linux/linux-git-c-nodejs-nginx/)
