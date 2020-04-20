@@ -55,4 +55,4 @@ devops的发展过程：
 ### 欢迎一起讨论
 公众号：cicdops
 
-![devops9](static/gzh12.jpg)
+![devops9](http://aishizhe.cn/cicdops//gzh12.jpg)
