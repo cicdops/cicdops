@@ -1,0 +1,19 @@
+title: DevOps 
+arrange:
+     - 2020年devops的7个发展趋势.md 
+     - DevOps工程师.md                                    
+     - DevOps技能自查表.md
+     - DevOps工程师技能.md  
+     - DevOps的工作岗位的要求.md   
+     - Devops相关考试和认证.md
+     - Devops工程师需要具备的10项技能.md
+     - AIOps.md          
+     - ChatOps.md                                                      
+     - DevSecOps的实现与相关开源工具.md
+     - GitOps.md
+     - DevOps常用工具.md                                                       
+     - SRE网站可靠性工程师.md
+     - 谷歌SRE的7条原则.md
+     - DevOps与：cloud，IaC，Container，Microservices， Serverless.md
+     - ...
+

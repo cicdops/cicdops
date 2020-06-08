@@ -1,0 +1,103 @@
+site_name: CICD DevOps 
+site_url: https://www.cicdops.com
+site_author: itech 
+site_description: >-
+    持续集成，持续部署，DevOps，SRE，DevSecOps, ChatOps, AIOps, MLOps  
+    Linux, Python, Perl, nodejs, javascript, go, cpp, Docker, k8s, serverless 
+    Jenkins, TeamCity, Bamboo, git, github, gitlab, SonarQube, 
+    kibana, prometheus, grafana, chef, puppet, salkstack, ansible
+# Repository
+repo_name: cicdops/cicdops
+repo_url: https://github.com/cicdops/cicdops
+edit_uri: ""
+
+# Copyright
+copyright: Copyright &copy; 2019 - 2020 cicdops.com 
+
+# Configuration
+theme:
+  name: null
+  custom_dir: material
+
+  # 404 page
+  static_templates:
+    - 404.html
+
+  # Don't include MkDocs' JavaScript
+  include_search_page: false
+  search_index_only: true
+
+  # Default values, taken from mkdocs_theme.yml
+  language: en
+  features:
+    - tabs
+    #- instant
+  palette:
+    scheme: default
+    primary: indigo
+    accent: indigo
+  font:
+    text: Roboto
+    code: Roboto Mono
+  icon:
+    logo: logo
+  favicon: assets/favicon.png
+
+# Plugins
+plugins:
+  - search
+  - minify:
+      minify_html: true
+  - awesome-pages
+
+# Customization
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/cicdops
+    - icon: fontawesome/brands/github
+      link: https://github.com/linux6
+
+# Extensions
+markdown_extensions:
+  - markdown.extensions.admonition
+  - markdown.extensions.attr_list
+  - markdown.extensions.codehilite:
+      guess_lang: false
+  - markdown.extensions.def_list
+  - markdown.extensions.footnotes
+  - markdown.extensions.meta
+  - markdown.extensions.toc:
+      permalink: true
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  # - pymdownx.highlight:
+  #     linenums_style: pymdownx-inline
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: squidfunk
+      repo: mkdocs-material
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.snippets:
+      check_paths: true
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+# Page tree
+#nav:
+#  - Home: index.md
+#  - DevOps: devops
+#  - Linux: linux
