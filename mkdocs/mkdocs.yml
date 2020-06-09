@@ -1,4 +1,4 @@
-site_name: CICD DevOps 
+site_name: CICD DevOps (公众号：cicdops)
 site_url: https://www.cicdops.com
 site_author: itech 
 site_description: >-
@@ -12,7 +12,7 @@ repo_url: https://github.com/cicdops/cicdops
 edit_uri: ""
 
 # Copyright
-copyright: Copyright &copy; 2019 - 2020 cicdops.com 
+copyright: Copyright &copy; 2019 - 2020 cicdops.com  公众号：cicdops
 
 # Configuration
 theme:
