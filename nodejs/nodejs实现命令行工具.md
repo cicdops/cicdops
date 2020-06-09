@@ -22,7 +22,8 @@ npm install -g cnpm --registry=https://registry.npm.taobao.org
 ```
 
 ## 实现第一个helloworld的命令
-```#!/usr/bin/env node
+```
+#!/usr/bin/env node
 console.log('hello world');
 增加权限
 chmod u+x yourscript  
@@ -38,6 +39,7 @@ process.argv中包含了所有的参数
 输出为：[ 'node', '/home/george/yourscript', '-f', '-g' ]  
 ```
 
+
 ## 程序的退出
 ```
 if (err) {
@@ -46,6 +48,7 @@ if (err) {
   process.exit(0);
 }
 ```
+
 
 ## 将命令行工具打包为可安装的npm包
 ```
@@ -64,6 +67,7 @@ $ helloworld
 Hello, world!
 其他人可以通过命令安装：npm install -g helloworld
 ```
+
 
 ## 参考：
 https://blog.developer.atlassian.com/scripting-with-node/  
