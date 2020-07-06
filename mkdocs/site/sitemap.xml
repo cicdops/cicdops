@@ -1,135 +1,167 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
      <loc>https://www.cicdops.com/</loc>
-     <lastmod>2020-06-29</lastmod>
+     <lastmod>2020-07-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://www.cicdops.com/about/</loc>
-     <lastmod>2020-06-29</lastmod>
+     <lastmod>2020-07-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://www.cicdops.com/CICD/CDF%E4%B8%8E%E5%BC%80%E6%BA%90DevOps%E6%8C%81%E7%BB%AD%E4%BA%A4%E4%BB%98%E7%B3%BB%E7%BB%9FJenkinsX%2CSpinnaker%2CTekton%2CScrewdriver/</loc>
-     <lastmod>2020-06-29</lastmod>
+     <lastmod>2020-07-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://www.cicdops.com/CICD/CDS%E6%98%AF%E4%B8%80%E4%B8%AA%E4%BC%81%E4%B8%9A%E7%BA%A7%E7%9A%84%E6%8C%81%E7%BB%AD%E4%BA%A4%E4%BB%98%E5%92%8CDevOps%E8%87%AA%E5%8A%A8%E5%8C%96%E5%BC%80%E6%BA%90%E5%B9%B3%E5%8F%B0/</loc>
-     <lastmod>2020-06-29</lastmod>
+     <lastmod>2020-07-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://www.cicdops.com/CICD/Jenkins%20pipeline%20jenkinsfile%E7%9A%84%E4%B8%A4%E7%A7%8D%E5%86%99%E4%BD%9C%E6%96%B9%E5%BC%8F%E5%A3%B0%E6%98%8E%E5%BC%8F%E5%92%8C%E8%84%9A%E6%9C%AC%E5%BC%8F/</loc>
-     <lastmod>2020-06-29</lastmod>
+     <lastmod>2020-07-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://www.cicdops.com/CICD/Jenkins%20pipeline%E4%B9%8B%E5%A3%B0%E6%98%8E%E5%BC%8F%E7%9A%84jenkinsfile/</loc>
-     <lastmod>2020-06-29</lastmod>
+     <lastmod>2020-07-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://www.cicdops.com/CICD/argo-cd%E5%9F%BA%E4%BA%8EKubernetes%E7%9A%84%E5%A3%B0%E6%98%8E%E5%BC%8F%E6%8C%81%E7%BB%AD%E9%83%A8%E7%BD%B2/</loc>
-     <lastmod>2020-06-29</lastmod>
+     <lastmod>2020-07-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://www.cicdops.com/devops/2020%E5%B9%B4devops%E7%9A%847%E4%B8%AA%E5%8F%91%E5%B1%95%E8%B6%8B%E5%8A%BF/</loc>
-     <lastmod>2020-06-29</lastmod>
+     <lastmod>2020-07-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://www.cicdops.com/devops/DevOps%E5%B7%A5%E7%A8%8B%E5%B8%88/</loc>
-     <lastmod>2020-06-29</lastmod>
+     <lastmod>2020-07-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://www.cicdops.com/devops/DevOps%E6%8A%80%E8%83%BD%E8%87%AA%E6%9F%A5%E8%A1%A8/</loc>
-     <lastmod>2020-06-29</lastmod>
+     <lastmod>2020-07-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://www.cicdops.com/devops/DevOps%E5%B7%A5%E7%A8%8B%E5%B8%88%E6%8A%80%E8%83%BD/</loc>
-     <lastmod>2020-06-29</lastmod>
+     <lastmod>2020-07-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://www.cicdops.com/devops/DevOps%E7%9A%84%E5%B7%A5%E4%BD%9C%E5%B2%97%E4%BD%8D%E7%9A%84%E8%A6%81%E6%B1%82/</loc>
-     <lastmod>2020-06-29</lastmod>
+     <lastmod>2020-07-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://www.cicdops.com/devops/Devops%E7%9B%B8%E5%85%B3%E8%80%83%E8%AF%95%E5%92%8C%E8%AE%A4%E8%AF%81/</loc>
-     <lastmod>2020-06-29</lastmod>
+     <lastmod>2020-07-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://www.cicdops.com/devops/Devops%E5%B7%A5%E7%A8%8B%E5%B8%88%E9%9C%80%E8%A6%81%E5%85%B7%E5%A4%87%E7%9A%8410%E9%A1%B9%E6%8A%80%E8%83%BD/</loc>
-     <lastmod>2020-06-29</lastmod>
+     <lastmod>2020-07-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://www.cicdops.com/devops/AIOps/</loc>
-     <lastmod>2020-06-29</lastmod>
+     <lastmod>2020-07-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://www.cicdops.com/devops/ChatOps/</loc>
-     <lastmod>2020-06-29</lastmod>
+     <lastmod>2020-07-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://www.cicdops.com/devops/DevSecOps%E7%9A%84%E5%AE%9E%E7%8E%B0%E4%B8%8E%E7%9B%B8%E5%85%B3%E5%BC%80%E6%BA%90%E5%B7%A5%E5%85%B7/</loc>
-     <lastmod>2020-06-29</lastmod>
+     <lastmod>2020-07-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://www.cicdops.com/devops/GitOps/</loc>
-     <lastmod>2020-06-29</lastmod>
+     <lastmod>2020-07-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://www.cicdops.com/devops/DevOps%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7/</loc>
-     <lastmod>2020-06-29</lastmod>
+     <lastmod>2020-07-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://www.cicdops.com/devops/SRE%E7%BD%91%E7%AB%99%E5%8F%AF%E9%9D%A0%E6%80%A7%E5%B7%A5%E7%A8%8B%E5%B8%88/</loc>
-     <lastmod>2020-06-29</lastmod>
+     <lastmod>2020-07-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://www.cicdops.com/devops/%E8%B0%B7%E6%AD%8CSRE%E7%9A%847%E6%9D%A1%E5%8E%9F%E5%88%99/</loc>
-     <lastmod>2020-06-29</lastmod>
+     <lastmod>2020-07-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://www.cicdops.com/devops/DevOps%E4%B8%8E%EF%BC%9Acloud%EF%BC%8CIaC%EF%BC%8CContainer%EF%BC%8CMicroservices%EF%BC%8C%20Serverless/</loc>
-     <lastmod>2020-06-29</lastmod>
+     <lastmod>2020-07-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://www.cicdops.com/linux/Linux%20centos8%20VPS%E5%9F%BA%E6%9C%AC%E9%85%8D%E7%BD%AE%E4%B9%8BSSH/</loc>
-     <lastmod>2020-06-29</lastmod>
+     <lastmod>2020-07-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://www.cicdops.com/linux/Linux%E5%9F%BA%E6%9C%AC%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AEgit%2Cc%2B%2B%2Cnodejs%2Cnginx/</loc>
-     <lastmod>2020-06-29</lastmod>
+     <lastmod>2020-07-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://www.cicdops.com/linux/bash%E6%9E%81%E7%AE%80%E6%95%99%E7%A8%8B/</loc>
-     <lastmod>2020-06-29</lastmod>
+     <lastmod>2020-07-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://www.cicdops.com/nodejs/Nodejs%E4%B8%8E%E7%AE%A1%E9%81%93%E5%92%8C%E4%BF%A1%E5%8F%B7/</loc>
-     <lastmod>2020-06-29</lastmod>
+     <lastmod>2020-07-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://www.cicdops.com/nodejs/nodejs%E4%B8%AD%E4%BD%BF%E7%94%A8websockets/</loc>
+     <lastmod>2020-07-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://www.cicdops.com/nodejs/nodejs%E5%8F%82%E6%95%B0%E7%9A%84%E5%A4%84%E7%90%86%E4%B8%8E%E7%94%A8%E6%88%B7%E7%9A%84%E4%BA%A4%E4%BA%92/</loc>
-     <lastmod>2020-06-29</lastmod>
+     <lastmod>2020-07-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://www.cicdops.com/nodejs/nodejs%E5%92%8Chttp%E8%AF%B7%E6%B1%82axios/</loc>
+     <lastmod>2020-07-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://www.cicdops.com/nodejs/nodejs%E5%AE%9E%E7%8E%B0%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%B7%A5%E5%85%B7/</loc>
-     <lastmod>2020-06-29</lastmod>
+     <lastmod>2020-07-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://www.cicdops.com/nodejs/nodejs%E6%96%87%E6%9C%AC%E6%96%87%E4%BB%B6%E7%9A%84%E8%AF%BB%E5%86%99/</loc>
-     <lastmod>2020-06-29</lastmod>
+     <lastmod>2020-07-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://www.cicdops.com/nodejs/nodejs%E6%96%B0%E8%BF%9B%E7%A8%8B%E5%AD%90%E8%BF%9B%E7%A8%8B/</loc>
+     <lastmod>2020-07-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://www.cicdops.com/nodejs/nodejs%E7%9B%AE%E5%BD%95%E4%B8%8E%E6%96%87%E4%BB%B6%E9%81%8D%E5%8E%86/</loc>
-     <lastmod>2020-06-29</lastmod>
+     <lastmod>2020-07-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://www.cicdops.com/nodejs/nodejs%E7%BB%88%E7%AB%AF%E5%AD%97%E7%AC%A6%E6%A0%B7%E5%BC%8F%E5%92%8C%E8%BF%9B%E5%BA%A6%E6%9D%A1/</loc>
-     <lastmod>2020-06-29</lastmod>
+     <lastmod>2020-07-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://www.cicdops.com/nodejs/nodejs%E8%AF%BB%E5%86%99json%E6%96%87%E4%BB%B6/</loc>
-     <lastmod>2020-06-29</lastmod>
+     <lastmod>2020-07-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://www.cicdops.com/nodejs/nodejs%E8%AF%BB%E5%86%99redis%E5%92%8Cmongo/</loc>
+     <lastmod>2020-07-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://www.cicdops.com/nodejs/nodejs%E8%AF%BB%E5%86%99yaml/</loc>
+     <lastmod>2020-07-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://www.cicdops.com/nodejs/nodejs%E8%B0%83%E7%94%A8shell/</loc>
+     <lastmod>2020-07-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://www.cicdops.com/nodejs/nodejs%E9%98%9F%E5%88%97/</loc>
+     <lastmod>2020-07-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://www.cicdops.com/nodejs/nodejs%E9%9B%86%E7%BE%A4/</loc>
+     <lastmod>2020-07-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://www.cicdops.com/tools/Caddy%E4%B8%80%E4%B8%AA%E5%BC%BA%E5%A4%A7%E7%9A%84web%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%92%8C%E4%BB%A3%E7%90%86%E6%9C%8D%E5%8A%A1%E5%99%A8/</loc>
-     <lastmod>2020-06-29</lastmod>
+     <lastmod>2020-07-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
