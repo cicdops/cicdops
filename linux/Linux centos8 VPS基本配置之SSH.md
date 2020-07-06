@@ -3,9 +3,7 @@ Linux centos8 VPS基本配置之SSH
 
 最近在使用阿里云的时候，需要安装一些nodejs模块，但是总是安装失败，我已经使用了淘宝镜像cnpm加速，查看了具体原因是有github的依赖。 阿里云访问github出奇的慢，查了很多资料，也在论坛里向阿里反应过这个问题，但是貌似无解。所以没有办法，我只能把东京VPS重新启动起来，每月5美元，然后从阿里云SSH到VPS，速度老快，还可以VVPPNN，查英文资料，想干啥就干啥，杠杠的！
 
-使用如下链接注册的新用户，可以获得100美元，估计可以免费使用好多个月，有需要的可以试试。
 
-<a href="https://www.vultr.com/?ref=6859185"><img src="https://www.vultr.com/media/banners/banner_468x60.png" width="468" height="60"></a>
 
 由于是从centos6升级到centos8，所以有些命令改动，在VPS网站申请好实例后，从web控制台登录进行修改密码和SSH的配置。下面记录基本的配置过程：
 
