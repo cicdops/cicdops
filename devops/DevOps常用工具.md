@@ -11,7 +11,7 @@ shell语法查询：
 > https://www.tutorialspoint.com/linux_admin/index.htm
 
 正则表达式：
-> http://www.regexr.com/ 
+> http://www.regexr.com/  
 > https://extendsclass.com/regex-tester.html
 
 cron测试：
