@@ -12,6 +12,7 @@ shell语法查询：
 
 正则表达式：
 > http://www.regexr.com/ 
+> https://extendsclass.com/regex-tester.html
 
 cron测试：
 > http://cron.schlitt.info/
