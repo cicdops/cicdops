@@ -1,11 +1,15 @@
 
 - tr 实现字符的替换，参数必须使用单引号  
+```
 $ echo 'apple;banana;cherry' | tr ';' ':'  
 apple:banana:cherry  
+```
 
 - tr 大小写的转化  
+```
 $ echo 'HELLO WORLD' | tr 'A-Z' 'a-z'  
 hello world  
+```
 
 - tr 单行与多行的转化
 ```
