@@ -26,7 +26,7 @@ cherry  dates
 $ echo 'one;two;three;four' | cut -d';' -f3   
 three  
 
-- cut 取反-c
+- cut 对-f参数取反-c
 ```
 # except second field  
 $ printf 'apple ball cat\n1 2 3 4 5' | cut --complement -d' ' -f2  
